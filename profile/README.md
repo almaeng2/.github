@@ -26,10 +26,10 @@
 ![ecr](https://img.shields.io/badge/ecr-FF9900?style=for-the-badge&logoColor=white) &nbsp;
 
 #### AI
-![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) &nbsp;
-![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) &nbsp;
-![googleVisionAPI](https://img.shields.io/badge/googleAPI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) &nbsp;
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;
+![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) &nbsp;
+![googleVisionAPI](https://img.shields.io/badge/googleAPI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) &nbsp;
+![yolo](https://img.shields.io/badge/yolo-512BD4?style=for-the-badge&logo=yolo&logoColor=white) &nbsp;
 
 #### Etc.
 ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) &nbsp;
