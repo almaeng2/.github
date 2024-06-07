@@ -1,6 +1,6 @@
 ## :bell: 프로젝트 소개
 
-- 시각에 불편함을 겪는 이들을 위한 <span style="color:red"> 시각 정보 제공 서비스 </span> 입니다.
+- 시각에 불편함을 겪는 이들을 위한 <span style="color:red"> 의약품 정보 제공 서비스 </span> 입니다.
 
 ## :smile: 멤버 소개
 
